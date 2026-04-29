@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm Mustafa. Currently learning backend development, student.
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,fastapi,linux,git,pytest,sql,regex,figma&theme=light)](https://skillicons.dev)
+
+![Leetcode Stats](https://leetcard.Mustafa_Zakhardin/Mustafath?theme=nord)
 
 <!--
 **Mustafath/Mustafath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
