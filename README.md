@@ -3,7 +3,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,py,fastapi,linux,git,sql&theme=dark)](https://skillicons.dev)
 
-![Leetcode Stats](https://leetcard.mustafa_zakhardin/mustafa_zakhardin?theme=nord)
+<img width="516" height="223" alt="image" src="https://github.com/user-attachments/assets/ad7df2df-78f3-4a8e-ac9e-51bdc14528f1" />
 
 <!--
 **Mustafath/Mustafath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
